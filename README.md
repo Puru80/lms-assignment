@@ -16,6 +16,9 @@ The project is structured to follow common software design patterns, including t
 -   **Search:** Search for books by title, author, or ISBN using different strategies.
 -   **Logging:** Uses SLF4J for logging important events and errors.
 
+## Class Diagram
+![Library cover](https://raw.githubusercontent.com/Puru80/lms-assignment/main/assets/images/library.png)
+
 ## Getting Started
 
 ### Prerequisites
