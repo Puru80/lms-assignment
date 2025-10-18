@@ -17,7 +17,7 @@ The project is structured to follow common software design patterns, including t
 -   **Logging:** Uses SLF4J for logging important events and errors.
 
 ## Class Diagram
-![LMS Class Diagram](https://raw.githubusercontent.com/Puru80/lms-assignment/assignment-impl/assets/images/clas-diagram.png)
+![LMS Class Diagram](https://raw.githubusercontent.com/Puru80/lms-assignment/assignment-impl/assets/images/class-diagram.png)
 
 ## Getting Started
 
